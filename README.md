@@ -1,6 +1,3 @@
-# sistema_bancario_v2.0
-
-
 # Sistema Bancário Básico
 Esta é a segunda versão do meu sistema bancário feito em python. Nesta versão, as três primeiras funcionalidades foram mantidas (Depósito, Saque e Estrato), e também foram adicionadas três novas funções: Adicionar Usuários, Adicionar Contas e Lista de Contas. As funcionalidades serão explicadas abaixo: 
   ## Depósito:
